@@ -1,8 +1,8 @@
 import java.util.Scanner; //Digunakan untuk memanggil kelas agar bisa membaca input
 /**
- * Kafe02
+ * Cafe02
  */
-public class Kafe02 { // nama program atau kelas
+public class Cafe02 { // nama program atau kelas
 
     public static void main(String[] args) { // bagian utama program dimana semua perintah akan dijalankan
         boolean keanggotaan; //Deklarasi variabel untuk menyimpan status keanggotaan pelanggan (true/false).
